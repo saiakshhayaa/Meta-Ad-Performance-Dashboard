@@ -95,17 +95,19 @@ An interactive Power BI dashboard developed to analyze and compare Facebook and 
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
+```text
 Meta-Ad-Performance-Dashboard
 │
-├── dashboard.pbix
-├── dataset.csv
+├── Dashboard.pbix
+├── Dataset.csv
 ├── README.md
-└── images
+└── Images
     ├── Facebook_dashboard.png
     ├── Instagram_dashboard.png
     └── Executive_summary.png
+```
 
 ---
 
