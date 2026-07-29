@@ -9,7 +9,7 @@ An interactive Power BI dashboard developed to analyze and compare Facebook and 
 📘 Facebook Dashboard
 
 <p align="center">
-  <img src="Images/Facebook_dashboard.png" width="95%"/>
+  <img src="images/Facebook_dashboard.png" width="95%"/>
 </p>Key KPIs
 
 - Total Impressions
@@ -35,7 +35,7 @@ Dashboard Highlights
 📷 Instagram Dashboard
 
 <p align="center">
-  <img src="Images/Instagram_dashboard.png" width="95%"/>
+  <img src="images/Instagram_dashboard.png" width="95%"/>
 </p>The Instagram dashboard provides the same KPIs and analyses as the Facebook dashboard, enabling easy comparison of campaign performance across both platforms.
 
 ---
@@ -43,7 +43,7 @@ Dashboard Highlights
 📈 Executive Summary
 
 <p align="center">
-  <img src="Images/Executive_summary.png" width="95%"/>
+  <img src="images/Executive_summary.png" width="95%"/>
 </p>Executive KPIs
 
 - Top Campaign
@@ -99,9 +99,9 @@ Executive Visualizations
 Meta-Ad-Performance-Dashboard
 │
 ├── dashboard.pbix
-├── Dataset.csv
+├── dataset.csv
 ├── README.md
-└── Images
+└── images
     ├── Facebook_dashboard.png
     ├── Instagram_dashboard.png
     └── Executive_summary.png
