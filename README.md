@@ -1,6 +1,6 @@
 📊 Meta Ad Performance Dashboard
 
-An interactive Power BI dashboard developed to analyze and compare Facebook and Instagram advertising campaigns. The dashboard provides insights into campaign performance, audience engagement, conversions, and advertising effectiveness through interactive visualizations.
+An interactive Power BI dashboard developed to analyze and compare Facebook and Instagram advertising campaigns. The dashboard provides insights into campaign performance, audience engagement, conversions, and advertising effectiveness through interactive visualizations and data-driven storytelling.
 
 ---
 
@@ -10,22 +10,22 @@ An interactive Power BI dashboard developed to analyze and compare Facebook and 
 
 <p align="center">
   <img src="images/Facebook_dashboard.png" width="95%"/>
-</p>Key KPIs
+</p>📌 Key KPIs
 
 - Total Impressions
-- Total Clicks
 - Total Reach
+- Total Clicks
 - Total Spend
 - CTR (Click-Through Rate)
 - CPC (Cost Per Click)
 - Conversion Rate
 - ROI
 
-Dashboard Highlights
+📊 Dashboard Highlights
 
 - Campaign Performance Analysis
 - Audience Engagement Analysis
-- Geographic Performance
+- Geographic Performance Analysis
 - Weekly, Monthly & Hourly Engagement Trends
 - Ad Type Performance
 - Interactive Filters & Slicers
@@ -36,7 +36,7 @@ Dashboard Highlights
 
 <p align="center">
   <img src="images/Instagram_dashboard.png" width="95%"/>
-</p>The Instagram dashboard provides the same KPIs and analyses as the Facebook dashboard, enabling easy comparison of campaign performance across both platforms.
+</p>The Instagram dashboard provides the same KPIs and analyses as the Facebook dashboard, enabling easy comparison of advertising performance across both platforms.
 
 ---
 
@@ -44,13 +44,13 @@ Dashboard Highlights
 
 <p align="center">
   <img src="images/Executive_summary.png" width="95%"/>
-</p>Executive KPIs
+</p>📌 Executive KPIs
 
 - Top Campaign
 - Top Audience
 - Best Ad Type
 
-Executive Visualizations
+📊 Executive Visualizations
 
 - Campaigns by Conversion Rate
 - Age Group Conversion Rate
@@ -79,8 +79,9 @@ Executive Visualizations
 - Cross-filtering Across Visuals
 - Custom Tooltips
 - Geographic Analysis
-- Conversion Funnel
+- Conversion Funnel Visualization
 - Executive Summary Dashboard
+- Interactive Slicers
 
 ---
 
@@ -88,7 +89,7 @@ Executive Visualizations
 
 - Microsoft Power BI
 - Power Query
-- DAX
+- DAX (Data Analysis Expressions)
 - Data Modeling
 - Interactive Visualizations
 
@@ -102,6 +103,39 @@ Meta-Ad-Performance-Dashboard
 ├── dataset.csv
 ├── README.md
 └── images
+    ├── Facebook_dashboard.png
+    ├── Instagram_dashboard.png
+    └── Executive_summary.png
+
+---
+
+🚀 How to Use
+
+1. Clone or download this repository.
+2. Open Dashboard.pbix using Microsoft Power BI Desktop.
+3. Explore the Facebook Dashboard, Instagram Dashboard, and Executive Summary pages.
+4. Use the interactive filters and slicers to analyze campaign performance.
+
+---
+
+⭐ Project Highlights
+
+- Developed a multi-page interactive Power BI dashboard for Meta advertising campaign analysis.
+- Performed data transformation and cleaning using Power Query.
+- Created DAX measures for KPI calculations and dynamic business insights.
+- Designed an executive summary to present high-level campaign performance.
+- Implemented custom tooltips, slicers, and cross-filtering for enhanced user interaction.
+
+---
+
+📌 Repository Structure
+
+Meta-Ad-Performance-Dashboard
+│
+├── Dashboard.pbix
+├── Dataset.csv
+├── README.md
+└── Images
     ├── Facebook_dashboard.png
     ├── Instagram_dashboard.png
     └── Executive_summary.png
